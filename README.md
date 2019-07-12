@@ -42,3 +42,6 @@ The characteristics (size, color, shape, etc.) of each fruit by type
 Have any fruit been in the basket for over 3 days
 4 oranges and 5 pineapples are over 3 days old
 
+
+##Solution Screen
+![alt text](https://github.com/VishwaVijayKushwaha/solution-0001/raw/master/screen.jpg)
