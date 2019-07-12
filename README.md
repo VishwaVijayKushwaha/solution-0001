@@ -5,9 +5,12 @@ mvn clean install
 (note: java 8 and maven is reuired)
 
 2. To run the application.
- 2.1 goto target folder
- 2.2 run following command
-   java -jar solution.jar
+
+2.1 goto target folder
+
+2.2 run following command
+
+java -jar solution.jar
 
 
 
@@ -44,13 +47,13 @@ Have any fruit been in the basket for over 3 days
 
 
 
-##Solution Screen
+## Solution Screen
 
 ![alt text](https://github.com/VishwaVijayKushwaha/solution-0001/raw/master/screen.jpg)
 
 
 
-##API DATA
+## API DATA
 
 
 ```json
